@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+.env
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Data/Artifacts
+artifacts/
+outputs/
+!.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
